@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  height: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 5px;
+  padding-left: 15px;
+  color: rgb(45, 45, 45);
+}
